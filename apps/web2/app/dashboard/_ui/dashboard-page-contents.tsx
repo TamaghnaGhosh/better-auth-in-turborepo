@@ -22,7 +22,7 @@ export function DashboardPageContents({ user }: DashboardPageContentsProps) {
   return (
     <div className="flex items-center justify-center min-h-screen">
       <div className="space-y-6 text-center">
-        <h1 className="font-bold text-3xl">Dashboard</h1>
+        <h1 className="font-bold text-3xl">Web2 Dashboard</h1>
 
         <p className="text-muted-foreground">
           Welcome, {user.name || user.email}!

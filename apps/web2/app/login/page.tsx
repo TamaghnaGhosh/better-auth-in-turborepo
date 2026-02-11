@@ -17,7 +17,7 @@ export default function LoginPage() {
       <Card className="w-full max-w-md shadow-lg">
         <CardHeader className="text-center">
           <CardTitle className="text-2xl text-blue-800">
-            Web App Login
+            Web2 App Login
           </CardTitle>
         </CardHeader>
 
